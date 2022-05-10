@@ -1,5 +1,5 @@
-#pip install selenium  --->
-#pip install webdriver-manager ---> 
+#pip install selenium  
+#pip install webdriver-manager
 from selenium import webdriver
 import random
 import os
